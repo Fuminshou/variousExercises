@@ -1,0 +1,14 @@
+{
+    "name": "nicole/fmg_mvc2",
+    "authors": [
+        {
+            "name": "nicole bartolini",
+            "email": "nb@ideato.info"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+    	"symfony/dom-crawler": "3.0.*@dev",
+        "symfony/css-selector": "3.0.*@dev"
+    }
+}

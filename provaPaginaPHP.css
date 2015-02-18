@@ -1,0 +1,45 @@
+div{
+    margin: 5px;
+    padding: 5px;
+    text-align: justify;
+}
+
+#wrapper{
+    width: 500px;
+}
+
+.menu{
+    width: 480px;
+    border-bottom: 3px double black;
+    color: tan;
+}
+
+.corpo{
+    float: right;
+    width: 330px;
+    color: #0000cc;
+}
+
+.sidebar{
+    background-color: #dddddd;
+    border: 1px dashed #909090;
+    float: left;
+    width: 100px;
+    text-align: center;
+}
+
+.footer{
+    width: 480px;
+    clear: both;
+}
+
+a:link, a:visited{
+    color: #ff9000;
+    text-decoration: none;
+}
+
+a:hover, a:active{
+    color: #cc4411;
+    text-decoration: none;
+    font-weight: bold;
+}

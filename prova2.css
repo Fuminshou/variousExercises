@@ -1,0 +1,44 @@
+body{
+    width: 700px;
+}
+
+nav{
+    background-color: #dddddd;
+    border: 1px dotted #000000;
+}
+
+aside{
+    width: 170px;
+    float: left;
+    border-right: 3px double #000000;
+    margin-top: 15px;
+}
+
+article{
+    width: 500px;
+    float: right;
+}
+
+footer{
+    clear: both;
+    background-color: #dddddd;
+    border: 1px dashed #000000;
+}
+
+a:link, a:visited{
+    color: #cc3333;
+    text-decoration: none;
+}
+
+a:hover, a:active{
+    color: #cc3377;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+h1{
+    color: #cc0000;
+    font-weight: bold;
+    font-size: 16px;
+    margin: 5px 0px 15px 0px;
+}
